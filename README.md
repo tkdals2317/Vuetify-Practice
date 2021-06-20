@@ -1,8 +1,8 @@
- ## title
+## TITLE
 
-Vuetify-Practice
+#Vuetify-Practice
 
-## motivation 
+## Motivation 
 
 프로젝트 하면서 프론트엔드의 부족함을 느껴 Vuetify를 공부해야할 필요성을 느끼고 공부하면서 정리한 자료를 저장하는 곳을 만들어보고자 시작했습니다
 
