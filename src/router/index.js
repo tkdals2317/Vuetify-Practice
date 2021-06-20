@@ -4,6 +4,7 @@ import DashBoard from "@/views/DashBoard";
 import GridSystem from "@/views/GridSystem";
 import GridListPage from "@/views/GridListPage";
 import Breakpoints from "@/views/Breakpoints";
+import Typography from "@/views/Typography";
 Vue.use(VueRouter);
 
 const routes = [
@@ -26,6 +27,16 @@ const routes = [
     path: "/breakpoints",
     name: "Breakpoints",
     component: Breakpoints,
+  },
+  {
+    path: "/breakpoints",
+    name: "Breakpoints",
+    component: Breakpoints,
+  },
+  {
+    path: "/Typography",
+    name: "Typography",
+    component: Typography,
   },
 ];
 
