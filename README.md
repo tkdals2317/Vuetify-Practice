@@ -10,6 +10,6 @@ Vuetify-Practice
 
 강의 자료는 짐코딩 GYM CODING의 강의자료와 Vuetify 공식 홈페이지의 예제에 따라 공부하였습니다.
 
-🔗Vuetify 공식 홈페이지 : https://vuetifyjs.com/en/
+🔗Vuetify 공식 홈페이지 : https://vuetifyjs.com/en/    
 🔗짐코딩 GYM CODING : https://www.youtube.com/channel/UCZ30aWiMw5C8mGcESlAGQbA
 
