@@ -1,6 +1,6 @@
 ## TITLE
 
-# Vuetify-Practice
+### Vuetify-Practice
 
 ## Motivation 
 
