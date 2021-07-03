@@ -1,4 +1,3 @@
-## TITLE
 
 ## Vuetify-Practice
 
