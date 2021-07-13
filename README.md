@@ -1,5 +1,5 @@
 
-## Vuetify-Practice
+## vue-study
 
 ## Motivation 
 
